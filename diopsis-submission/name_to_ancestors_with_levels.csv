@@ -1,0 +1,128 @@
+name,ancestors,encoded_name,encoded_ancestors,level
+Animalia,['Animalia'],0,[0],1
+Insecta,"['Insecta', 'Animalia']",0,"[0, 0]",2
+Hymenoptera,"['Hymenoptera', 'Insecta', 'Animalia']",0,"[0, 0, 0]",3
+Lepidoptera,"['Lepidoptera', 'Insecta', 'Animalia']",1,"[1, 0, 0]",3
+Diptera,"['Diptera', 'Insecta', 'Animalia']",2,"[2, 0, 0]",3
+Gastropoda,"['Gastropoda', 'Animalia']",1,"[1, 0]",2
+Geometridae,"['Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",0,"[0, 1, 0, 0]",4
+Hemiptera,"['Hemiptera', 'Insecta', 'Animalia']",3,"[3, 0, 0]",3
+Crambidae,"['Crambidae', 'Lepidoptera', 'Insecta', 'Animalia']",1,"[1, 1, 0, 0]",4
+Arachnida,"['Arachnida', 'Animalia']",2,"[2, 0]",2
+Opiliones,"['Opiliones', 'Arachnida', 'Animalia']",4,"[4, 2, 0]",3
+Tortricidae,"['Tortricidae', 'Lepidoptera', 'Insecta', 'Animalia']",2,"[2, 1, 0, 0]",4
+Coleoptera,"['Coleoptera', 'Insecta', 'Animalia']",5,"[5, 0, 0]",3
+Chironomidae,"['Chironomidae', 'Diptera', 'Insecta', 'Animalia']",3,"[3, 2, 0, 0]",4
+Ichneumonidae,"['Ichneumonidae', 'Hymenoptera', 'Insecta', 'Animalia']",4,"[4, 0, 0, 0]",4
+Araneae,"['Araneae', 'Arachnida', 'Animalia']",6,"[6, 2, 0]",3
+Tipulidae,"['Tipulidae', 'Diptera', 'Insecta', 'Animalia']",5,"[5, 2, 0, 0]",4
+Psychodidae,"['Psychodidae', 'Diptera', 'Insecta', 'Animalia']",6,"[6, 2, 0, 0]",4
+Chrysomelidae,"['Chrysomelidae', 'Coleoptera', 'Insecta', 'Animalia']",7,"[7, 5, 0, 0]",4
+Trichoptera,"['Trichoptera', 'Insecta', 'Animalia']",7,"[7, 0, 0]",3
+Plutellidae,"['Plutellidae', 'Lepidoptera', 'Insecta', 'Animalia']",8,"[8, 1, 0, 0]",4
+Notonectidae,"['Notonectidae', 'Hemiptera', 'Insecta', 'Animalia']",9,"[9, 3, 0, 0]",4
+Noctuidae,"['Noctuidae', 'Lepidoptera', 'Insecta', 'Animalia']",10,"[10, 1, 0, 0]",4
+Aphididae,"['Aphididae', 'Hemiptera', 'Insecta', 'Animalia']",11,"[11, 3, 0, 0]",4
+Formicidae,"['Formicidae', 'Hymenoptera', 'Insecta', 'Animalia']",12,"[12, 0, 0, 0]",4
+Pyralidae,"['Pyralidae', 'Lepidoptera', 'Insecta', 'Animalia']",13,"[13, 1, 0, 0]",4
+Arctiidae,"['Arctiidae', 'Lepidoptera', 'Insecta', 'Animalia']",14,"[14, 1, 0, 0]",4
+Limoniidae,"['Limoniidae', 'Diptera', 'Insecta', 'Animalia']",15,"[15, 2, 0, 0]",4
+Agapeta,"['Agapeta', 'Tortricidae', 'Lepidoptera', 'Insecta', 'Animalia']",0,"[0, 2, 1, 0, 0]",5
+Agapeta hamana,"['Agapeta hamana', 'Agapeta', 'Tortricidae', 'Lepidoptera', 'Insecta', 'Animalia']",0,"[0, 0, 2, 1, 0, 0]",6
+Spilosoma,"['Spilosoma', 'Arctiidae', 'Lepidoptera', 'Insecta', 'Animalia']",1,"[1, 14, 1, 0, 0]",5
+Spilosoma urticae,"['Spilosoma urticae', 'Spilosoma', 'Arctiidae', 'Lepidoptera', 'Insecta', 'Animalia']",1,"[1, 1, 14, 1, 0, 0]",6
+Idaea,"['Idaea', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",2,"[2, 0, 1, 0, 0]",5
+Yponomeutidae,"['Yponomeutidae', 'Lepidoptera', 'Insecta', 'Animalia']",16,"[16, 1, 0, 0]",4
+Yponomeuta,"['Yponomeuta', 'Yponomeutidae', 'Lepidoptera', 'Insecta', 'Animalia']",3,"[3, 16, 1, 0, 0]",5
+Carabidae,"['Carabidae', 'Coleoptera', 'Insecta', 'Animalia']",17,"[17, 5, 0, 0]",4
+Curculionidae,"['Curculionidae', 'Coleoptera', 'Insecta', 'Animalia']",18,"[18, 5, 0, 0]",4
+Cantharidae,"['Cantharidae', 'Coleoptera', 'Insecta', 'Animalia']",19,"[19, 5, 0, 0]",4
+Coccinellidae,"['Coccinellidae', 'Coleoptera', 'Insecta', 'Animalia']",20,"[20, 5, 0, 0]",4
+Staphylinidae,"['Staphylinidae', 'Coleoptera', 'Insecta', 'Animalia']",21,"[21, 5, 0, 0]",4
+Corixidae,"['Corixidae', 'Hemiptera', 'Insecta', 'Animalia']",22,"[22, 3, 0, 0]",4
+Cicadellidae,"['Cicadellidae', 'Hemiptera', 'Insecta', 'Animalia']",23,"[23, 3, 0, 0]",4
+Cercopidae,"['Cercopidae', 'Hemiptera', 'Insecta', 'Animalia']",24,"[24, 3, 0, 0]",4
+Erebidae,"['Erebidae', 'Lepidoptera', 'Insecta', 'Animalia']",25,"[25, 1, 0, 0]",4
+Entognatha,"['Entognatha', 'Animalia']",3,"[3, 0]",2
+Collembola,"['Collembola', 'Entognatha', 'Animalia']",8,"[8, 3, 0]",3
+Tomoceridae,"['Tomoceridae', 'Collembola', 'Entognatha', 'Animalia']",26,"[26, 8, 3, 0]",4
+Hydroptilidae,"['Hydroptilidae', 'Trichoptera', 'Insecta', 'Animalia']",27,"[27, 7, 0, 0]",4
+Asilidae,"['Asilidae', 'Diptera', 'Insecta', 'Animalia']",28,"[28, 2, 0, 0]",4
+Cecidomyiidae,"['Cecidomyiidae', 'Diptera', 'Insecta', 'Animalia']",29,"[29, 2, 0, 0]",4
+Culicidae,"['Culicidae', 'Diptera', 'Insecta', 'Animalia']",30,"[30, 2, 0, 0]",4
+Empididae,"['Empididae', 'Diptera', 'Insecta', 'Animalia']",31,"[31, 2, 0, 0]",4
+Sarcophagidae,"['Sarcophagidae', 'Diptera', 'Insecta', 'Animalia']",32,"[32, 2, 0, 0]",4
+Tachinidae,"['Tachinidae', 'Diptera', 'Insecta', 'Animalia']",33,"[33, 2, 0, 0]",4
+Syrphidae,"['Syrphidae', 'Diptera', 'Insecta', 'Animalia']",34,"[34, 2, 0, 0]",4
+Sepsidae,"['Sepsidae', 'Diptera', 'Insecta', 'Animalia']",35,"[35, 2, 0, 0]",4
+Auchenorrhyncha indet.,"['Auchenorrhyncha indet.', 'Hemiptera', 'Insecta', 'Animalia']",36,"[36, 3, 0, 0]",4
+Chrysoteuchia,"['Chrysoteuchia', 'Crambidae', 'Lepidoptera', 'Insecta', 'Animalia']",4,"[4, 1, 1, 0, 0]",5
+Chrysoteuchia culmella,"['Chrysoteuchia culmella', 'Chrysoteuchia', 'Crambidae', 'Lepidoptera', 'Insecta', 'Animalia']",2,"[2, 4, 1, 1, 0, 0]",6
+Miridae,"['Miridae', 'Hemiptera', 'Insecta', 'Animalia']",37,"[37, 3, 0, 0]",4
+Ephemeroptera,"['Ephemeroptera', 'Insecta', 'Animalia']",9,"[9, 0, 0]",3
+Baetidae,"['Baetidae', 'Ephemeroptera', 'Insecta', 'Animalia']",38,"[38, 9, 0, 0]",4
+Dermaptera,"['Dermaptera', 'Insecta', 'Animalia']",10,"[10, 0, 0]",3
+Rivula,"['Rivula', 'Noctuidae', 'Lepidoptera', 'Insecta', 'Animalia']",5,"[5, 10, 1, 0, 0]",5
+Rivula sericealis,"['Rivula sericealis', 'Rivula', 'Noctuidae', 'Lepidoptera', 'Insecta', 'Animalia']",3,"[3, 5, 10, 1, 0, 0]",6
+Caenidae,"['Caenidae', 'Ephemeroptera', 'Insecta', 'Animalia']",39,"[39, 9, 0, 0]",4
+Cyclophora,"['Cyclophora', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",6,"[6, 0, 1, 0, 0]",5
+Hepialidae,"['Hepialidae', 'Lepidoptera', 'Insecta', 'Animalia']",40,"[40, 1, 0, 0]",4
+Triodia,"['Triodia', 'Hepialidae', 'Lepidoptera', 'Insecta', 'Animalia']",7,"[7, 40, 1, 0, 0]",5
+Triodia sylvina,"['Triodia sylvina', 'Triodia', 'Hepialidae', 'Lepidoptera', 'Insecta', 'Animalia']",4,"[4, 7, 40, 1, 0, 0]",6
+Synaphe,"['Synaphe', 'Pyralidae', 'Lepidoptera', 'Insecta', 'Animalia']",8,"[8, 13, 1, 0, 0]",5
+Synaphe punctalis,"['Synaphe punctalis', 'Synaphe', 'Pyralidae', 'Lepidoptera', 'Insecta', 'Animalia']",5,"[5, 8, 13, 1, 0, 0]",6
+Neuroptera,"['Neuroptera', 'Insecta', 'Animalia']",11,"[11, 0, 0]",3
+Chrysopidae,"['Chrysopidae', 'Neuroptera', 'Insecta', 'Animalia']",41,"[41, 11, 0, 0]",4
+Anisopodidae,"['Anisopodidae', 'Diptera', 'Insecta', 'Animalia']",42,"[42, 2, 0, 0]",4
+Ceratopogonidae,"['Ceratopogonidae', 'Diptera', 'Insecta', 'Animalia']",43,"[43, 2, 0, 0]",4
+Eilema,"['Eilema', 'Arctiidae', 'Lepidoptera', 'Insecta', 'Animalia']",9,"[9, 14, 1, 0, 0]",5
+Orthoptera,"['Orthoptera', 'Insecta', 'Animalia']",12,"[12, 0, 0]",3
+Acrididae,"['Acrididae', 'Orthoptera', 'Insecta', 'Animalia']",44,"[44, 12, 0, 0]",4
+Leptoceridae,"['Leptoceridae', 'Trichoptera', 'Insecta', 'Animalia']",45,"[45, 7, 0, 0]",4
+Pterophoridae,"['Pterophoridae', 'Lepidoptera', 'Insecta', 'Animalia']",46,"[46, 1, 0, 0]",4
+Sciaridae,"['Sciaridae', 'Diptera', 'Insecta', 'Animalia']",47,"[47, 2, 0, 0]",4
+Fanniidae,"['Fanniidae', 'Diptera', 'Insecta', 'Animalia']",48,"[48, 2, 0, 0]",4
+Coleophoridae,"['Coleophoridae', 'Lepidoptera', 'Insecta', 'Animalia']",49,"[49, 1, 0, 0]",4
+Fannia,"['Fannia', 'Fanniidae', 'Diptera', 'Insecta', 'Animalia']",10,"[10, 48, 2, 0, 0]",5
+Psocodea,"['Psocodea', 'Insecta', 'Animalia']",13,"[13, 0, 0]",3
+Stratiomyidae,"['Stratiomyidae', 'Diptera', 'Insecta', 'Animalia']",50,"[50, 2, 0, 0]",4
+Pyrausta,"['Pyrausta', 'Crambidae', 'Lepidoptera', 'Insecta', 'Animalia']",11,"[11, 1, 1, 0, 0]",5
+Nepticulidae,"['Nepticulidae', 'Lepidoptera', 'Insecta', 'Animalia']",51,"[51, 1, 0, 0]",4
+Gelechiidae,"['Gelechiidae', 'Lepidoptera', 'Insecta', 'Animalia']",52,"[52, 1, 0, 0]",4
+Lomaspilis,"['Lomaspilis', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",12,"[12, 0, 1, 0, 0]",5
+Mycetophilidae,"['Mycetophilidae', 'Diptera', 'Insecta', 'Animalia']",53,"[53, 2, 0, 0]",4
+Lomaspilis marginata,"['Lomaspilis marginata', 'Lomaspilis', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",6,"[6, 12, 0, 1, 0, 0]",6
+Notodontidae,"['Notodontidae', 'Lepidoptera', 'Insecta', 'Animalia']",54,"[54, 1, 0, 0]",4
+Tettigoniidae,"['Tettigoniidae', 'Orthoptera', 'Insecta', 'Animalia']",55,"[55, 12, 0, 0]",4
+Cabera,"['Cabera', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",13,"[13, 0, 1, 0, 0]",5
+Cabera exanthemata,"['Cabera exanthemata', 'Cabera', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",7,"[7, 13, 0, 1, 0, 0]",6
+Leptophyes,"['Leptophyes', 'Tettigoniidae', 'Orthoptera', 'Insecta', 'Animalia']",14,"[14, 55, 12, 0, 0]",5
+Leptophyes punctatissima,"['Leptophyes punctatissima', 'Leptophyes', 'Tettigoniidae', 'Orthoptera', 'Insecta', 'Animalia']",8,"[8, 14, 55, 12, 0, 0]",6
+Ennomos,"['Ennomos', 'Geometridae', 'Lepidoptera', 'Insecta', 'Animalia']",15,"[15, 0, 1, 0, 0]",5
+Mecoptera,"['Mecoptera', 'Insecta', 'Animalia']",14,"[14, 0, 0]",3
+Panorpidae,"['Panorpidae', 'Mecoptera', 'Insecta', 'Animalia']",56,"[56, 14, 0, 0]",4
+Panorpa,"['Panorpa', 'Panorpidae', 'Mecoptera', 'Insecta', 'Animalia']",16,"[16, 56, 14, 0, 0]",5
+Panorpa vulgaris,"['Panorpa vulgaris', 'Panorpa', 'Panorpidae', 'Mecoptera', 'Insecta', 'Animalia']",9,"[9, 16, 56, 14, 0, 0]",6
+Hypena,"['Hypena', 'Erebidae', 'Lepidoptera', 'Insecta', 'Animalia']",17,"[17, 25, 1, 0, 0]",5
+Hypena proboscidalis,"['Hypena proboscidalis', 'Hypena', 'Erebidae', 'Lepidoptera', 'Insecta', 'Animalia']",10,"[10, 17, 25, 1, 0, 0]",6
+Apidae,"['Apidae', 'Hymenoptera', 'Insecta', 'Animalia']",57,"[57, 0, 0, 0]",4
+Myathropa,"['Myathropa', 'Syrphidae', 'Diptera', 'Insecta', 'Animalia']",18,"[18, 34, 2, 0, 0]",5
+Myathropa florea,"['Myathropa florea', 'Myathropa', 'Syrphidae', 'Diptera', 'Insecta', 'Animalia']",11,"[11, 18, 34, 2, 0, 0]",6
+Parasitica indet.,"['Parasitica indet.', 'Hymenoptera', 'Insecta', 'Animalia']",58,"[58, 0, 0, 0]",4
+Arctia,"['Arctia', 'Arctiidae', 'Lepidoptera', 'Insecta', 'Animalia']",19,"[19, 14, 1, 0, 0]",5
+Arctia caja,"['Arctia caja', 'Arctia', 'Arctiidae', 'Lepidoptera', 'Insecta', 'Animalia']",12,"[12, 19, 14, 1, 0, 0]",6
+Helophilus,"['Helophilus', 'Syrphidae', 'Diptera', 'Insecta', 'Animalia']",20,"[20, 34, 2, 0, 0]",5
+Panorpa germanica,"['Panorpa germanica', 'Panorpa', 'Panorpidae', 'Mecoptera', 'Insecta', 'Animalia']",13,"[13, 16, 56, 14, 0, 0]",6
+Eristalis,"['Eristalis', 'Syrphidae', 'Diptera', 'Insecta', 'Animalia']",21,"[21, 34, 2, 0, 0]",5
+Tholera,"['Tholera', 'Noctuidae', 'Lepidoptera', 'Insecta', 'Animalia']",22,"[22, 10, 1, 0, 0]",5
+Tholera decimalis,"['Tholera decimalis', 'Tholera', 'Noctuidae', 'Lepidoptera', 'Insecta', 'Animalia']",14,"[14, 22, 10, 1, 0, 0]",6
+Notodonta,"['Notodonta', 'Notodontidae', 'Lepidoptera', 'Insecta', 'Animalia']",23,"[23, 54, 1, 0, 0]",5
+Notodonta dromedarius,"['Notodonta dromedarius', 'Notodonta', 'Notodontidae', 'Lepidoptera', 'Insecta', 'Animalia']",15,"[15, 23, 54, 1, 0, 0]",6
+Melanostoma,"['Melanostoma', 'Syrphidae', 'Diptera', 'Insecta', 'Animalia']",24,"[24, 34, 2, 0, 0]",5
+No Animalia,['No Animalia'],1,[1],1
+None0,['None0'],2,[2],1
+None1,"['None1', 'None0']",4,"[4, 2]",2
+None2,"['None2', 'None1', 'None0']",15,"[15, 4, 2]",3
+None3,"['None3', 'None2', 'None1', 'None0']",59,"[59, 15, 4, 2]",4
+None4,"['None4', 'None3', 'None2', 'None1', 'None0']",25,"[25, 59, 15, 4, 2]",5
+None5,"['None5', 'None4', 'None3', 'None2', 'None1', 'None0']",16,"[16, 25, 59, 15, 4, 2]",6

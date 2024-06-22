@@ -1,0 +1,7 @@
+*
+!requirements.txt
+!Dockerfile
+!main.py
+!*.pkl
+!*.pth
+!*.csv
